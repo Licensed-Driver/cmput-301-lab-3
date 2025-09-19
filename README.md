@@ -1,9 +1,9 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
-Name: Layne Pitman
-CCID: lpitman
-Lecture: A2
-Lab: D02
+`Name: Layne Pitman`
+`CCID: lpitman`
+`Lecture: A2`
+`Lab: D02`
 
 ## References and Resources
 
